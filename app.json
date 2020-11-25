@@ -1,0 +1,6 @@
+{
+  "name": "Uvicorn issue 344",
+  "description": "A Heroku app demonstrating Uvicorn issue 344",
+  "repository": "https://github.com/malthejorgensen/uvicorn-issue-344",
+  "keywords": ["python", "uvicorn"]
+}
