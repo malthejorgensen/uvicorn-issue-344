@@ -58,10 +58,11 @@ You can also deploy this project to Heroku yourself by using the button below.
     <tr>
       <td>uvicorn v0.12.3 (latest)</td>
       <td><code>quart-uvicorn-v0.12.3</code></td>
-      <td>No</td>
+      <td>Yes</td>
       <td><a href="https://heroku.com/deploy?template=https://github.com/malthejorgensen/uvicorn-issue-344/tree/quart-uvicorn-v0.12.3"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy uvicorn v0.12.3"></a></td>
       <td><a href="https://uvicorn-issue-344-v0-12-3.herokuapp.com/">https://uvicorn-issue-344-v0-12-3.herokuapp.com/</a></td>
     </tr>
   </tbody>
 </table>
+
 _Note: uvicorn v0.12.3 is the latest version as of the time of writing (2020-11-26)._
