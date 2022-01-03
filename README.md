@@ -1,5 +1,7 @@
 # Uvicorn issue 344
 
+**Note:** _As of 2022-01-03 I'm no longer able to reproduce this issue on any version of uvicorn (v0.11.8 and v0.12.0 to v0.12.3). The apps are still on the Heroku-18 stack at this time, and have not been changed in any way in the meantime. I'm not sure when the issue stopped. I believe something inside Heroku has changed causing the issue to stop happening._
+
 This is a repository demonstrating [uvicorn issue 344](https://github.com/encode/uvicorn/issues/344).
 
 You can find this code deployed at <https://uvicorn-issue-344.herokuapp.com>.
